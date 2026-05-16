@@ -8,8 +8,17 @@
 
 Computer Science and Informatics student at the Faculty of Electrical Engineering, University of Sarajevo.
 
-Passionate about software engineering, full stack development, cloud technologies and AI-powered systems.  
-Experienced in backend services, web applications, Android development and database systems through academic and team projects.
+Passionate about software engineering, full stack development, cloud technologies and AI-powered systems.
+
+Experienced in building backend services, web applications, Android applications and database-driven systems through academic and team projects.
+
+###  What I Focus On
+
+- Building modern full stack applications
+- Developing backend services and REST APIs
+- Working with cloud & DevOps technologies
+- Exploring AI-powered systems and scalable architectures
+- Designing efficient database systems
 
 ---
 
@@ -39,5 +48,16 @@ Experienced in backend services, web applications, Android development and datab
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
----
+### How I Use Them
 
+- **Spring Boot, ASP.NET, Node.js & Express.js** for backend services, REST APIs and server-side development
+- **Angular & React** for building modern and responsive frontend applications
+- **Docker, AWS & Terraform** for cloud infrastructure, containerization and DevOps practices
+- **PostgreSQL, Oracle & MSSQL** for database design, queries and data management
+- **Kotlin** for Android mobile application development
+
+---
+##  Contact Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nejravatric2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nejra-vatrić-b017773ab)
